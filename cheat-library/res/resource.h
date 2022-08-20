@@ -1,0 +1,23 @@
+//{{NO_DEPENDENCIES}}
+// Microsoft Visual C++ 生成的包含文件。
+// 供 res.rc 使用
+//
+#define AssemblyChecksum                4
+#define IDR_RCDATA1                     101
+#define IDR_RCDATA2                     102
+#define IDB_PNG1                        105
+#define IDB_PNG2                        106
+#define IDB_ANEMOCULUS                  106
+#define IDR_RCDATA3                     107
+#define IDR_FONT1                       109
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        110
+#define _APS_NEXT_COMMAND_VALUE         40001
+#define _APS_NEXT_CONTROL_VALUE         1001
+#define _APS_NEXT_SYMED_VALUE           101
+#endif
+#endif
